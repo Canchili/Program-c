@@ -3,7 +3,7 @@
 
 
 int main(int argc, char *argv[]) {
-//	printf("Hello world");
+	printf("Hello world");
 	double a = 5.1,b = 1,c = -2, d, x1, x2;
 	scanf("%lf",&a);
 	scanf("%lf",&b);
