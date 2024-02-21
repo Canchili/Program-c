@@ -15,7 +15,6 @@ while(i == 1)
 	x1 = (-b + sqrt(d))/ (2*a);
 	x2 = (-b - sqrt(d))/ (2*a);
 	printf("d = %lf \n",d);
-	printf("x1 = %lf \n" "x2 = %lf \n",x1,x2);
 	if (d>0){
 	x1 = (-b + sqrt(d))/ (2*a);
 	x2 = (-b - sqrt(d))/ (2*a);
