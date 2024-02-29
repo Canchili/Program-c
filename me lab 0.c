@@ -12,8 +12,6 @@ while(i == 1)
 	scanf("%lf",&b);
 	scanf("%lf",&c);
 	d = b*b - 4*a*c;
-	x1 = (-b + sqrt(d))/ (2*a);
-	x2 = (-b - sqrt(d))/ (2*a);
 	printf("d = %lf \n",d);
 	if (d>0){
 	x1 = (-b + sqrt(d))/ (2*a);
